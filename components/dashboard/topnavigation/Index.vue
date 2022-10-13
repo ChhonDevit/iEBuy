@@ -23,7 +23,8 @@
           lg:max-w-68
         "
       >
-        <div class="flex group h-full items-center relative w-12">
+      <img src="/images/LOGO.png" alt="" class="w-20">
+        <!-- <div class="flex group h-full items-center relative w-12">
           <button
             type="button"
             aria-expanded="false"
@@ -33,7 +34,7 @@
           >
             &#8801;
           </button>
-        </div>
+        </div> -->
         <div
           class="
             flex

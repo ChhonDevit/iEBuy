@@ -201,7 +201,7 @@
     border-radius: 10px;
   }
   .subl{
-    width: 50%;
+    width: 60%;
     height: 100%;
   }
   .subtitle{
