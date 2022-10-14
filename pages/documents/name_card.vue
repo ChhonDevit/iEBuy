@@ -5,20 +5,20 @@
   <div class="max-w-2xl mx-auto bg-white p-16">
     <h1 class="mb-5"><b>E Name Card</b></h1>
     <h2 class="mb-5">Personal Details:</h2>
-<form>
+<form action="##">
   
   <div class="grid gap-6 mb-6 lg:grid-cols-2"> 
       <div>
-          <label for="first_name" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">First name</label>
+          <label for="first_name" class="required block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">First name</label>
           <input  type="text" i class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="John" required>
       </div>
       <div>
-          <label for="last_name" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Last name</label>
+          <label for="last_name" class="required block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Last name</label>
           <input  type="text"  class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Doe" required>
       </div>
      
       <div>
-          <label for="phone" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Phone number</label>
+          <label for="phone" class="required  mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Phone number</label>
           <input  type="tel"  class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="012 345 678"  required>
       </div>
       <div>
@@ -26,11 +26,11 @@
           <input  type="email"  class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="john.doe@company.com" >
     </div> 
       <div>
-          <label for="position" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Company Name</label>
+          <label for="position" class="required block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Company Name</label>
           <input  id="position" type="text" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="iEBuy" required>
       </div>
       <div>
-          <label for="position" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Position</label>
+          <label for="position" class="required block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Position</label>
           <input  id="position" type="text" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Web Developer" required>
       </div>
       <div class="flex justify-center">
@@ -74,13 +74,14 @@
   </div>
 </div>
   </div>
-  <div class="mb-6">
-          <label for="email" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Email address</label>
-          <input  type="email"  class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="john.doe@company.com" >
-  </div> 
+ 
   <div class="mb-6">
           <label for="address" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Address</label>
           <input  type="text"  class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="" required>
+  </div> 
+  <div class="mb-6">
+          <label for="address" class="required block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Contact Link</label>
+          <input  type="link"  class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="" required>
   </div> 
       
       
@@ -107,6 +108,10 @@ export default {
   // checkbox.indeterminate = true;
 </script>
 <style>
+  .required:after {
+    content:" *";
+    color: red;
+  }
    h1{
     display: flex;
     text-align: center;

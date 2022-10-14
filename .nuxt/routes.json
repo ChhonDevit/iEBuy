@@ -3,198 +3,231 @@
     "name": "adminpage",
     "path": "/adminpage",
     "component": "E:\\\\E_Template\\\\pages\\\\adminpage.vue",
-    "chunkName": "pages/adminpage"
+    "chunkName": "pages/adminpage",
+    "_name": "_45214c5e"
   },
   {
     "name": "cv",
     "path": "/cv",
     "component": "E:\\\\E_Template\\\\pages\\\\cv.vue",
-    "chunkName": "pages/cv"
+    "chunkName": "pages/cv",
+    "_name": "_7eaebe10"
   },
   {
     "name": "cv_homepage",
     "path": "/cv_homepage",
     "component": "E:\\\\E_Template\\\\pages\\\\cv_homepage.vue",
-    "chunkName": "pages/cv_homepage"
+    "chunkName": "pages/cv_homepage",
+    "_name": "_03d8be26"
   },
   {
     "name": "edit",
     "path": "/edit",
     "component": "E:\\\\E_Template\\\\pages\\\\edit.vue",
-    "chunkName": "pages/edit"
+    "chunkName": "pages/edit",
+    "_name": "_09fb6ee7"
   },
   {
     "name": "filter",
     "path": "/filter",
     "component": "E:\\\\E_Template\\\\pages\\\\filter.vue",
-    "chunkName": "pages/filter"
+    "chunkName": "pages/filter",
+    "_name": "_30beafd6"
   },
   {
     "name": "homepage",
     "path": "/homepage",
     "component": "E:\\\\E_Template\\\\pages\\\\homepage.vue",
-    "chunkName": "pages/homepage"
+    "chunkName": "pages/homepage",
+    "_name": "_b295d76a"
   },
   {
     "name": "login",
     "path": "/login",
     "component": "E:\\\\E_Template\\\\pages\\\\login.vue",
-    "chunkName": "pages/login"
+    "chunkName": "pages/login",
+    "_name": "_40d1cadc"
   },
   {
     "name": "manu",
     "path": "/manu",
     "component": "E:\\\\E_Template\\\\pages\\\\manu.vue",
-    "chunkName": "pages/manu"
+    "chunkName": "pages/manu",
+    "_name": "_9a2f1290"
   },
   {
     "name": "register",
     "path": "/register",
     "component": "E:\\\\E_Template\\\\pages\\\\register.vue",
-    "chunkName": "pages/register"
+    "chunkName": "pages/register",
+    "_name": "_47d1df00"
   },
   {
     "name": "template1",
     "path": "/template1",
     "component": "E:\\\\E_Template\\\\pages\\\\template1.vue",
-    "chunkName": "pages/template1"
+    "chunkName": "pages/template1",
+    "_name": "_221bfc2c"
   },
   {
     "name": "template2",
     "path": "/template2",
     "component": "E:\\\\E_Template\\\\pages\\\\template2.vue",
-    "chunkName": "pages/template2"
+    "chunkName": "pages/template2",
+    "_name": "_21ffcd2a"
   },
   {
     "name": "template3",
     "path": "/template3",
     "component": "E:\\\\E_Template\\\\pages\\\\template3.vue",
-    "chunkName": "pages/template3"
+    "chunkName": "pages/template3",
+    "_name": "_21e39e28"
   },
   {
     "name": "template4",
     "path": "/template4",
     "component": "E:\\\\E_Template\\\\pages\\\\template4.vue",
-    "chunkName": "pages/template4"
+    "chunkName": "pages/template4",
+    "_name": "_21c76f26"
   },
   {
     "name": "template5",
     "path": "/template5",
     "component": "E:\\\\E_Template\\\\pages\\\\template5.vue",
-    "chunkName": "pages/template5"
+    "chunkName": "pages/template5",
+    "_name": "_21ab4024"
   },
   {
     "name": "template6",
     "path": "/template6",
     "component": "E:\\\\E_Template\\\\pages\\\\template6.vue",
-    "chunkName": "pages/template6"
+    "chunkName": "pages/template6",
+    "_name": "_218f1122"
   },
   {
     "name": "user",
     "path": "/user",
     "component": "E:\\\\E_Template\\\\pages\\\\user.vue",
-    "chunkName": "pages/user"
+    "chunkName": "pages/user",
+    "_name": "_cac7b7b0"
   },
   {
     "name": "documents-cvform",
     "path": "/documents/cvform",
     "component": "E:\\\\E_Template\\\\pages\\\\documents\\\\cvform.vue",
-    "chunkName": "pages/documents/cvform"
+    "chunkName": "pages/documents/cvform",
+    "_name": "_38b425e2"
   },
   {
     "name": "documents-name_card",
     "path": "/documents/name_card",
     "component": "E:\\\\E_Template\\\\pages\\\\documents\\\\name_card.vue",
-    "chunkName": "pages/documents/name_card"
+    "chunkName": "pages/documents/name_card",
+    "_name": "_43994ce9"
   },
   {
     "name": "documents-taxes",
     "path": "/documents/taxes",
     "component": "E:\\\\E_Template\\\\pages\\\\documents\\\\taxes.vue",
-    "chunkName": "pages/documents/taxes"
+    "chunkName": "pages/documents/taxes",
+    "_name": "_35c79e3e"
   },
   {
     "name": "documents-travel",
     "path": "/documents/travel",
     "component": "E:\\\\E_Template\\\\pages\\\\documents\\\\travel.vue",
-    "chunkName": "pages/documents/travel"
+    "chunkName": "pages/documents/travel",
+    "_name": "_752b93c5"
   },
   {
     "name": "events-networking",
     "path": "/events/networking",
     "component": "E:\\\\E_Template\\\\pages\\\\events\\\\networking.vue",
-    "chunkName": "pages/events/networking"
+    "chunkName": "pages/events/networking",
+    "_name": "_e2a57eac"
   },
   {
     "name": "events-weddings",
     "path": "/events/weddings",
     "component": "E:\\\\E_Template\\\\pages\\\\events\\\\weddings.vue",
-    "chunkName": "pages/events/weddings"
+    "chunkName": "pages/events/weddings",
+    "_name": "_5a11ad56"
   },
   {
     "name": "guides-documentation",
     "path": "/guides/documentation",
     "component": "E:\\\\E_Template\\\\pages\\\\guides\\\\documentation.vue",
-    "chunkName": "pages/guides/documentation"
+    "chunkName": "pages/guides/documentation",
+    "_name": "_78b42dd6"
   },
   {
     "name": "messages-archived",
     "path": "/messages/archived",
     "component": "E:\\\\E_Template\\\\pages\\\\messages\\\\archived.vue",
-    "chunkName": "pages/messages/archived"
+    "chunkName": "pages/messages/archived",
+    "_name": "_115e87cb"
   },
   {
     "name": "messages-unbox",
     "path": "/messages/unbox",
     "component": "E:\\\\E_Template\\\\pages\\\\messages\\\\unbox.vue",
-    "chunkName": "pages/messages/unbox"
+    "chunkName": "pages/messages/unbox",
+    "_name": "_1d8f0179"
   },
   {
     "name": "messages-unread",
     "path": "/messages/unread",
     "component": "E:\\\\E_Template\\\\pages\\\\messages\\\\unread.vue",
-    "chunkName": "pages/messages/unread"
+    "chunkName": "pages/messages/unread",
+    "_name": "_46031550"
   },
   {
     "name": "pictures-anniversary",
     "path": "/pictures/anniversary",
     "component": "E:\\\\E_Template\\\\pages\\\\pictures\\\\anniversary.vue",
-    "chunkName": "pages/pictures/anniversary"
+    "chunkName": "pages/pictures/anniversary",
+    "_name": "_62138924"
   },
   {
     "name": "pictures-university",
     "path": "/pictures/university",
     "component": "E:\\\\E_Template\\\\pages\\\\pictures\\\\university.vue",
-    "chunkName": "pages/pictures/university"
+    "chunkName": "pages/pictures/university",
+    "_name": "_2de40420"
   },
   {
     "name": "pictures-vacations",
     "path": "/pictures/vacations",
     "component": "E:\\\\E_Template\\\\pages\\\\pictures\\\\vacations.vue",
-    "chunkName": "pages/pictures/vacations"
+    "chunkName": "pages/pictures/vacations",
+    "_name": "_52f25b94"
   },
   {
     "name": "statistics-call-stats",
     "path": "/statistics/call-stats",
     "component": "E:\\\\E_Template\\\\pages\\\\statistics\\\\call-stats.vue",
-    "chunkName": "pages/statistics/call-stats"
+    "chunkName": "pages/statistics/call-stats",
+    "_name": "_27f8fca0"
   },
   {
     "name": "statistics-finances",
     "path": "/statistics/finances",
     "component": "E:\\\\E_Template\\\\pages\\\\statistics\\\\finances.vue",
-    "chunkName": "pages/statistics/finances"
+    "chunkName": "pages/statistics/finances",
+    "_name": "_911f72ce"
   },
   {
     "name": "statistics-trip-logs",
     "path": "/statistics/trip-logs",
     "component": "E:\\\\E_Template\\\\pages\\\\statistics\\\\trip-logs.vue",
-    "chunkName": "pages/statistics/trip-logs"
+    "chunkName": "pages/statistics/trip-logs",
+    "_name": "_1edbec72"
   },
   {
     "name": "index",
     "path": "/",
     "component": "E:\\\\E_Template\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_772a27c5"
   }
 ]

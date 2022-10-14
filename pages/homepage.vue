@@ -26,7 +26,7 @@
       </div>
     </div>
     <div class="flex sb">    
-      <p>RECOMMENDED FOR YOU</p>
+      <p class="para">RECOMMENDED FOR YOU</p>
       <NuxtLink to="/documents/name_card"><button type="button" class="flex mb-2 px-6 py-2.5 bg-yellow-500 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-yellow-700 hover:shadow-lg focus:bg-yellow-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-yellow-800 active:shadow-lg transition duration-150 ease-in-out">Create</button></NuxtLink>
     </div>
     <div class="flex justify-center p-5 border-2 mb-10 border-yellow-500 rounded">
@@ -51,7 +51,7 @@
         </div>
       </div>
     </div>
-    <p>NEW ADDED</p>
+    <p class="para">NEW ADDED</p>
     <div class="flex justify-center p-5 mb-10 border-2 border-yellow-500 rounded">
       <div class="flex">
         <div class="card rounded-lg shadow-lg bg-white p-1">
@@ -74,7 +74,7 @@
         </div>
       </div>
     </div>
-    <p>FEATURED</p>
+    <p class="para">FEATURED</p>
     <div class="flex justify-center p-5 mb-10 border-2 border-yellow-500 rounded">
       <div class="flex">
         <div class="card rounded-lg shadow-lg bg-white p-1">
@@ -97,7 +97,7 @@
         </div>
       </div>
     </div>
-    <p> POPULAR</p>
+    <p class="para"> POPULAR</p>
     <div class="flex justify-center p-5 mb-10 border-2 border-yellow-500 rounded">
       <div class="flex">
         <div class="card rounded-lg shadow-lg bg-white p-1">
@@ -120,7 +120,7 @@
         </div>
       </div>
     </div>
-    <p>FOR BUSINESS</p>
+    <p class="para">FOR BUSINESS</p>
     <div class="flex justify-center p-5 mb-10 border-2 border-yellow-500 rounded">
       <div class="flex">
         <div class="card rounded-lg shadow-lg bg-white p-1">
@@ -143,7 +143,7 @@
         </div>
       </div>
     </div>
-    <p>PERSONAL</p>
+    <p class="para">PERSONAL</p>
     <div class="flex justify-center p-5 mb-10 border-2 border-yellow-500 rounded">
       <div class="flex">
         <div class="card rounded-lg shadow-lg bg-white p-1">
@@ -166,7 +166,7 @@
         </div>
       </div>
     </div>
-    <p>FOR COMPANY</p>
+    <p class="para">FOR COMPANY</p>
     <div class="flex justify-center p-5 mb-10 border-2 border-yellow-500 rounded">
       <div class="flex">
         <div class="card rounded-lg shadow-lg bg-white p-1">
@@ -242,7 +242,7 @@
     /* z-index: 1; */
     margin-left: 10rem;
   }
-  p{
+  .para{
     font-weight: bold;
     font-size: 20px;
     color: #FFBC27;

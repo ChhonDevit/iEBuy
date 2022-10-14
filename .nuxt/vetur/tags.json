@@ -5,14 +5,23 @@
   "Scholarship": {
     "description": "Auto imported from components/Scholarship.vue"
   },
-  "DashboardLayout": {
-    "description": "Auto imported from components/dashboard/Layout.vue"
-  },
   "DocsDoc": {
     "description": "Auto imported from components/docs/Doc.vue"
   },
   "DocsSnippet": {
     "description": "Auto imported from components/docs/Snippet.vue"
+  },
+  "DashboardLayout": {
+    "description": "Auto imported from components/dashboard/Layout.vue"
+  },
+  "DocsIconsFileIcon": {
+    "description": "Auto imported from components/docs/icons/FileIcon.vue"
+  },
+  "DocsIconsFolderIcon": {
+    "description": "Auto imported from components/docs/icons/FolderIcon.vue"
+  },
+  "DocsIconsVueIcon": {
+    "description": "Auto imported from components/docs/icons/VueIcon.vue"
   },
   "DashboardProviderOverlay": {
     "description": "Auto imported from components/dashboard/provider/Overlay.vue"
@@ -34,15 +43,6 @@
   },
   "DashboardTopnavigation": {
     "description": "Auto imported from components/dashboard/topnavigation/Index.vue"
-  },
-  "DocsIconsFileIcon": {
-    "description": "Auto imported from components/docs/icons/FileIcon.vue"
-  },
-  "DocsIconsFolderIcon": {
-    "description": "Auto imported from components/docs/icons/FolderIcon.vue"
-  },
-  "DocsIconsVueIcon": {
-    "description": "Auto imported from components/docs/icons/VueIcon.vue"
   },
   "DashboardSidenavigationAccordion": {
     "description": "Auto imported from components/dashboard/sidenavigation/accordion/Accordion.vue"
