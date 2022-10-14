@@ -1,6 +1,6 @@
 <template >
   <div>
-    <div class="poster flex px-10 py-10">
+    <div class="poster flex px-10 py-10 justify-center">
       <div class="subl">
         <h1 class="subtitle">Name Card Template</h1>
         <h2 class="text mt-3">With iEBuy's name card template you can easily create and customize your name card within just a minute.</h2>
@@ -208,6 +208,7 @@
     font-weight: bold;
     font-size: 40px;
     color: #fff;
+    margin-left: -200px;
   }
   .text2{
     /* font-weight: bold; */
